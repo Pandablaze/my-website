@@ -1,0 +1,18 @@
+#apps{
+    background-color: aquamarine;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin:8px auto;
+}
+#games{
+    background-color: aquamarine;
+}
+#chatbot{
+    background-color: whitesmoke;
+}
+body{
+    text-align: center;
+}
